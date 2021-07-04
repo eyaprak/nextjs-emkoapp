@@ -6,7 +6,7 @@ This project has made with `Next.js` framework. This app powered by `jsonplaceho
 ## Setup
 To run this project, install it locally using npm:
 ```
-$ cd ../movie-app
+$ cd ../nextjs-emkoapp
 $ npm install
 $ npm run dev
 ```
