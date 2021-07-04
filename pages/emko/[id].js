@@ -27,9 +27,10 @@ export default function Details({ emko }) {
     return (
         <div>
             <h1>Details page </h1>
-            <p>{emko.email}</p>
-            <p>{emko.website}</p>
-            <p>{emko.address.city}</p>
+            <p><b>Name: </b>{emko.name}</p>
+            <p><b>Email: </b>{emko.email}</p>
+            <p><b>Website: </b>{emko.website}</p>
+            <p><b>City: </b>{emko.address.city}</p>
         </div>
     )
 }
