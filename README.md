@@ -1,4 +1,4 @@
-# React.JS Movie App
+# Next.JS User List App
 
 ## General info
 This project has made with `Next.js` framework. This app powered by `jsonplaceholder` fake api to get user informations.
